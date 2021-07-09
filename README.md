@@ -1,4 +1,7 @@
-### Hi there 👋
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=kochchy&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochchy&layout=compact&theme=dark" />
+</p>
 
 <!--
 **kochchy/kochchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
